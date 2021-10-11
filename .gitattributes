@@ -2,3 +2,4 @@ version https://git-lfs.github.com/spec/v1
 oid sha256:591a033c9173ab1b352b5dd0d33154d682eae60efbd0b9c78f6ab50c7a9ac3b5
 size 104
 executable/java/lib/modules filter=lfs diff=lfs merge=lfs -text
+executable/* linguist-detectable=false
